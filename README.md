@@ -10,7 +10,7 @@ A Simple Digital Clock Made With Python3.10.7 using Time and Tkinter Library
 <img alt="Image Preview!! -- Screenshot 2022-10-19 130224.png" src="./Files/Screenshot 2022-10-19 130224.png">
 
 <h2>Download Digital Clock</h2>
-[Download](https://drive.google.com/file/d/1YmHWPBAXHhh49ISvvc07FbUdL8FgJxJn/view?usp=sharing)
+Link: [Download](https://drive.google.com/file/d/1YmHWPBAXHhh49ISvvc07FbUdL8FgJxJn/view?usp=sharing)
 
 
 <h2>Support</h2>
